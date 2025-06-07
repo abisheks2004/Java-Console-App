@@ -21,13 +21,17 @@ A simple Java-based **console application** that simulates an online shopping ex
 3. View cart
 4. Checkout
 5. Exit
+
 1
 Enter product ID:
 101
+
 Enter product name:
 Laptop
+
 Enter product price:
 75000
+
 Enter product quantity:
 1
 
@@ -36,13 +40,17 @@ Enter product quantity:
 3. View cart
 4. Checkout
 5. Exit
+
 1
 Enter product ID:
 102
+
 Enter product name:
 Mouse
+
 Enter product price:
 500
+
 Enter product quantity:
 2
 
