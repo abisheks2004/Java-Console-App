@@ -23,6 +23,7 @@ A simple Java-based **console application** that simulates an online shopping ex
 5. Exit
 
 1
+
 Enter product ID:
 101
 
@@ -42,6 +43,7 @@ Enter product quantity:
 5. Exit
 
 1
+
 Enter product ID:
 102
 
@@ -59,19 +61,28 @@ Enter product quantity:
 3. View cart
 4. Checkout
 5. Exit
+
 3
+
 Cart contents:
+
 Laptop - 75000.0 x 1
+
 Mouse - 500.0 x 2
+
 Total: 76000.0
+
 
 1. Add product to cart
 2. Remove product from cart
 3. View cart
 4. Checkout
 5. Exit
+
 4
+
 Order placed successfully! Order ID: 1
+
 Total: 76000.0
 
 
