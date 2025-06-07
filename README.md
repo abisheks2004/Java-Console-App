@@ -14,15 +14,6 @@ A simple Java-based **console application** that simulates an online shopping ex
 - 📦 Object-oriented design using `Product`, `Cart`, `Customer`, and `Order` classes
 
 ---
-
-## 🗂️ Project Structure
-onlineshopping/
-├── Product.java
-├── Cart.java
-├── Order.java
-├── Customer.java
-└── Shopping.java
-
 💡 Sample Output
 
 1. Add product to cart
@@ -75,15 +66,4 @@ Total: 76000.0
 Order placed successfully! Order ID: 1
 Total: 76000.0
 
-
-🧠 Concepts Demonstrated
-Object-Oriented Programming (OOP)
-
-Java Collections (ArrayList)
-
-Basic input/output using Scanner
-
-Encapsulation via getter methods
-
-Simple order/cart logic flow
 
